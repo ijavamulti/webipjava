@@ -1,0 +1,38 @@
+{
+  "apps": [
+    {
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "lillieweeb001",
+      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/Reborn_5-3-4_17-07-2.ipa",
+      "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/uYou/icon.png",
+      "localizedDescription": "Reborn+ comes with original features we all like and love while injecting additional tweaks for extra functionality.\n\nList of injected tweaks:\nYoutube Reborn v3 (Beta)\nYouAreThere\nYouPiP\nYTClassicVideoQualitySelector\nYTUHD\nYTNoHoverCards\nYTSilentVite\nReturn YouTube Dislike",
+      "name": "Reborn+",
+      "screenshotURLs": [],
+      "size": 100101412,
+      "subtitle": "YouTube Reborn v3",
+      "tintColor": "FC2125",
+      "version": "17.07.2",
+      "versionDate": "2022-02-25T19:45:00",
+      "versionDescription": "Changelog:\n- Initial Release"
+    },
+    {
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "Jailed Source",
+      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/BHTwitter_2-7_8-87.ipa",
+      "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/Twitter/icon.png",
+      "localizedDescription": "Hides certain tweets on your timeline such as 'Promoted Tweets' or 'News and Highlights'",
+      "name": "BHTwitter+",
+      "screenshotURLs": [],
+      "size": 73537824,
+      "subtitle": "Ad-free Twitter",
+      "tintColor": "1E47D0",
+      "version": "8.87",
+      "versionDate": "2021-10-22T11:00:00",
+      "versionDescription": "Changelog:\n- Update BHTwitter to v2.7"
+    }
+  ],
+  "identifier": "com.ytjailed",
+  "name": "Jailed Source",
+  "news": [],
+  "userInfo": {}
+}
